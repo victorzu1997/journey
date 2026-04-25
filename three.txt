@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Cambio pal fetch
 otrooo
 
 The feat 
+=======
+A four
+>>>>>>> parent of 0c3b524 (s)
